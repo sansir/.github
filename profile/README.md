@@ -9,3 +9,7 @@ Vit lurta, spyrja og skilja. Vit bjóða av og ráðgeva.
 Vit samstarva, skapa yvirlit og vísa á loysnir.
 
 Vit skapa virði saman við kundum.
+
+## Avrik
+
+Sí okkara avrik her: [https://www.sansir.fo/avrik](https://www.sansir.fo/avrik)
